@@ -3,5 +3,6 @@ local Args = ...
 if Args[1] == 69420 then
   return true
 else
+  print(Args)
   return false
 end
