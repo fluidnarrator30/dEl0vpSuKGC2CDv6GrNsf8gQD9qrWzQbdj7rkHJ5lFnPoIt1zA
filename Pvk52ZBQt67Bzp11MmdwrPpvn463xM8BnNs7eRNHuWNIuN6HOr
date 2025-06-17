@@ -1,1 +1,7 @@
-print("Hello World")
+local Args = ...
+
+if Args[1] == 69420 then
+  return true
+else
+  return false
+end
