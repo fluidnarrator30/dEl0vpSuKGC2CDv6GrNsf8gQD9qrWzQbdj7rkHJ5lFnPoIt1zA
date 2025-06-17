@@ -1,4 +1,4 @@
-local Args = ...
+local Args = {...}
 
 if Args[1] == 69420 then
   return true
